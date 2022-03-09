@@ -18,7 +18,7 @@
 
 - **Distro:** Debian
 - **Shell:** [Fish](https://github.com/iamsamiulazim/Dotfiles/tree/main/.config/fish)
-- **Starship:** [(Starship Prompt)](https://github.com/iamsamiulazim/Dotfiles/blob/main/.config/starship.toml)
+- **Starship:** [Starship Prompt](https://github.com/iamsamiulazim/Dotfiles/blob/main/.config/starship.toml)
 
 ## Installation
 ```
